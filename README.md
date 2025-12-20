@@ -1,8 +1,11 @@
-# My Java Learning Progress (Started December 2025)
+ # Java Learning Repository
 
-This repository contains my daily Java practice, including:
-- Core Java programs
-- OOPs and Collections
+This repository contains my daily Java practice programs.
+Topics covered:
+- Java Basics
+- OOPS concepts
+- Collections
 - Exception handling
-- Practice DSA questions
-- Small mini tasks while learning
+- File handling
+
+I am learning Java with the goal of becoming an entry-level Java Developer.
